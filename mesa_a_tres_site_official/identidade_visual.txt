@@ -1,0 +1,31 @@
+## Identidade Visual: Paleta de Cores e Tipografia para "Mesa a Três"
+
+Com base no logo fornecido e nas preferências indicadas, a identidade visual da "Mesa a Três" buscará transmitir sofisticação, aconchego e um toque de modernidade, ideal para eventos que celebram momentos especiais com personalidade.
+
+### Paleta de Cores Principal:
+
+Retirada diretamente do logo, a paleta combina tons quentes e convidativos com um toque de delicadeza:
+
+1.  **Vermelho/Vinho Principal (do logo):** `#B71C1C` (aproximado, verificar a cor exata se possível). Esta será a cor primária, transmitindo paixão, energia e destaque. Ideal para chamadas para ação, títulos importantes e detalhes que precisam de ênfase.
+2.  **Rosa Claro (do logo):** `#F48FB1` (aproximado). Esta será a cor secundária, adicionando um toque de suavidade, feminilidade e charme. Pode ser usada em elementos de fundo, detalhes decorativos e para criar um contraste suave com o vermelho.
+3.  **Bege Claro (Fundo do logo/sugestão para o site):** `#F5F5DC`. Esta cor neutra e quente servirá como cor de fundo principal para o site, proporcionando uma base elegante e permitindo que as cores primária e secundária se destaquem. Transmite conforto e um ar artesanal.
+4.  **Cinza Escuro (para texto):** `#333333`. Para garantir legibilidade e um contraste adequado sobre o fundo bege, um cinza escuro será usado para a maior parte do texto corrido.
+5.  **Branco:** `#FFFFFF`. Para áreas de respiro, fundos de cards ou seções que necessitem de máximo contraste e limpeza.
+
+### Tipografia Sugerida:
+
+Para complementar a identidade visual, sugerimos uma combinação de fontes que equilibre elegância e legibilidade:
+
+1.  **Fonte para Títulos e Destaques (Ex: Nome da Marca, Cabeçalhos de Seção):** Uma fonte serifada elegante e com personalidade, como a **Playfair Display**. Suas curvas e variações de espessura remetem a um estilo clássico e sofisticado, ideal para transmitir a qualidade e o cuidado da "Mesa a Três".
+2.  **Fonte para Corpo de Texto (Parágrafos, descrições):** Uma fonte sans-serif limpa, moderna e altamente legível, como a **Roboto** ou **Inter**. Essas fontes garantem uma boa experiência de leitura em diferentes dispositivos e tamanhos de tela.
+
+### Estilo Visual Geral:
+
+O estilo visual do site e dos materiais da marca deve ser:
+
+*   **Clean e Organizado:** Facilitando a navegação e a absorção das informações.
+*   **Acolhedor e Convidativo:** Utilizando a paleta de cores quentes e imagens que transmitam alegria e celebração (assim que disponíveis).
+*   **Sofisticado com um Toque Artesanal:** Refletindo a qualidade dos produtos (bolos e doces) e o cuidado com a decoração.
+*   **Foco no Visual:** Assim que as fotos dos eventos estiverem prontas, elas serão o grande destaque, especialmente na galeria. Enquanto isso, podemos usar o logo e elementos gráficos baseados na paleta de cores para criar um visual atraente.
+
+Esta identidade visual servirá como base para o design do site, materiais de marketing e qualquer outra comunicação da marca "Mesa a Três", garantindo consistência e reconhecimento.

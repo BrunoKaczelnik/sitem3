@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+
+    /* Cores da marca Mesa a Três */
+    --mesa-primary: #B71C1C;
+    --mesa-secondary: #F48FB1;
+    --mesa-background: #F5F5DC; /* Mantida para referência */
+    --mesa-text: #333333;
+    --mesa-white: #FFFFFF;
+  }
+
+  /* Definindo as variáveis para o tema claro (padrão) */
+  body {
+    @apply bg-[#F5F5DC] text-[#333333]; /* Aplicando diretamente o valor hexadecimal para a cor do texto */
+    /* As fontes são definidas no layout.tsx através de variáveis CSS de fonte */
+  }
+
+  /* h1, h2, h3, h4, h5, h6 {
+     @apply font-playfair-display; 
+  } */
+}
+
